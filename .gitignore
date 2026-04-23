@@ -1,0 +1,22 @@
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Power BI files (binarios, no necesarios en el repo)
+*.pbix
+*.pbit
+
+# Diseño (imágenes del tablero)
+Diseño/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# Claude
+.claude/
