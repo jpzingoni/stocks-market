@@ -2,7 +2,7 @@ name: Actualizar datos de mercado
 
 on:
   schedule:
-    - cron: '0 13 * * 1-5'  # Lunes a viernes a las 13:00 UTC (10:00 AR)
+    - cron: '30 20 * * 1-5'  # Lunes a viernes a las 20:30 UTC (17:30 AR)
   workflow_dispatch:          # También permite correrlo manualmente desde GitHub
 
 jobs:
