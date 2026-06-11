@@ -911,14 +911,6 @@ Period,Metric,Value,Ticker,Frequency
 2024-05-31,Operating Expense,21747000000.0,ORCL,annual
 2024-05-31,Operating Income,16071000000.0,ORCL,annual
 2024-05-31,Total Revenue,52961000000.0,ORCL,annual
-2024-11-30,Basic EPS,1.13,ORCL,quarterly
-2024-11-30,Cost Of Revenue,,ORCL,quarterly
-2024-11-30,EBITDA,,ORCL,quarterly
-2024-11-30,Gross Profit,,ORCL,quarterly
-2024-11-30,Net Income,,ORCL,quarterly
-2024-11-30,Operating Expense,,ORCL,quarterly
-2024-11-30,Operating Income,,ORCL,quarterly
-2024-11-30,Total Revenue,,ORCL,quarterly
 2025-02-28,Basic EPS,1.05,ORCL,quarterly
 2025-02-28,Cost Of Revenue,4195000000.0,ORCL,quarterly
 2025-02-28,EBITDA,5891000000.0,ORCL,quarterly
@@ -967,6 +959,14 @@ Period,Metric,Value,Ticker,Frequency
 2026-02-28,Operating Expense,5461000000.0,ORCL,quarterly
 2026-02-28,Operating Income,5637000000.0,ORCL,quarterly
 2026-02-28,Total Revenue,17190000000.0,ORCL,quarterly
+2026-05-31,Basic EPS,1.47,ORCL,quarterly
+2026-05-31,Cost Of Revenue,,ORCL,quarterly
+2026-05-31,EBITDA,,ORCL,quarterly
+2026-05-31,Gross Profit,,ORCL,quarterly
+2026-05-31,Net Income,,ORCL,quarterly
+2026-05-31,Operating Expense,,ORCL,quarterly
+2026-05-31,Operating Income,,ORCL,quarterly
+2026-05-31,Total Revenue,,ORCL,quarterly
 2021-12-31,Basic EPS,,PEP,annual
 2021-12-31,Cost Of Revenue,,PEP,annual
 2021-12-31,EBITDA,,PEP,annual
