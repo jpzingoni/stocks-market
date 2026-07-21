@@ -1431,9 +1431,9 @@ Period,Metric,Value,Ticker,Frequency
 2025-03-31,Operating Expense,,TSM,quarterly
 2025-03-31,Operating Income,,TSM,quarterly
 2025-03-31,Total Revenue,,TSM,quarterly
-2025-06-30,Basic EPS,76.789979,TSM,quarterly
+2025-06-30,Basic EPS,76.8,TSM,quarterly
 2025-06-30,Cost Of Revenue,386423000000.0,TSM,quarterly
-2025-06-30,EBITDA,651481000000.0,TSM,quarterly
+2025-06-30,EBITDA,651480912000.0,TSM,quarterly
 2025-06-30,Gross Profit,547369000000.0,TSM,quarterly
 2025-06-30,Net Income,398273000000.0,TSM,quarterly
 2025-06-30,Operating Expense,83946000000.0,TSM,quarterly
@@ -1471,9 +1471,9 @@ Period,Metric,Value,Ticker,Frequency
 2026-03-31,Operating Expense,92346562000.0,TSM,quarterly
 2026-03-31,Operating Income,658948859000.0,TSM,quarterly
 2026-03-31,Total Revenue,1134103440000.0,TSM,quarterly
-2026-06-30,Basic EPS,136.231667,TSM,quarterly
+2026-06-30,Basic EPS,136.25,TSM,quarterly
 2026-06-30,Cost Of Revenue,410070000000.0,TSM,quarterly
-2026-06-30,EBITDA,965141000000.0,TSM,quarterly
+2026-06-30,EBITDA,766603000000.0,TSM,quarterly
 2026-06-30,Gross Profit,860311000000.0,TSM,quarterly
 2026-06-30,Net Income,706562000000.0,TSM,quarterly
 2026-06-30,Operating Expense,93708000000.0,TSM,quarterly
