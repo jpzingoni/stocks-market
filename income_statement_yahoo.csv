@@ -688,16 +688,16 @@ Period,Metric,Value,Ticker,Frequency
 2024-12-31,Total Revenue,463456000.0,MSTR,annual
 2024-12-31,Total Revenue,,MSTR,quarterly
 2025-03-31,Basic EPS,,MSTR,quarterly
-2025-03-31,Cost Of Revenue,33971000.0,MSTR,quarterly
-2025-03-31,EBITDA,-8832000.0,MSTR,quarterly
-2025-03-31,Gross Profit,77095000.0,MSTR,quarterly
-2025-03-31,Net Income,-4217370000.0,MSTR,quarterly
-2025-03-31,Operating Expense,92502000.0,MSTR,quarterly
-2025-03-31,Operating Income,-15407000.0,MSTR,quarterly
-2025-03-31,Total Revenue,111066000.0,MSTR,quarterly
+2025-03-31,Cost Of Revenue,,MSTR,quarterly
+2025-03-31,EBITDA,,MSTR,quarterly
+2025-03-31,Gross Profit,,MSTR,quarterly
+2025-03-31,Net Income,,MSTR,quarterly
+2025-03-31,Operating Expense,,MSTR,quarterly
+2025-03-31,Operating Income,,MSTR,quarterly
+2025-03-31,Total Revenue,,MSTR,quarterly
 2025-06-30,Basic EPS,36.23,MSTR,quarterly
 2025-06-30,Cost Of Revenue,35750000.0,MSTR,quarterly
-2025-06-30,EBITDA,14032837000.0,MSTR,quarterly
+2025-06-30,EBITDA,14032917000.0,MSTR,quarterly
 2025-06-30,Gross Profit,78738000.0,MSTR,quarterly
 2025-06-30,Net Income,10020846000.0,MSTR,quarterly
 2025-06-30,Operating Expense,94262000.0,MSTR,quarterly
@@ -736,13 +736,13 @@ Period,Metric,Value,Ticker,Frequency
 2026-03-31,Operating Income,-14940000.0,MSTR,quarterly
 2026-03-31,Total Revenue,124300000.0,MSTR,quarterly
 2026-06-30,Basic EPS,-24.45,MSTR,quarterly
-2026-06-30,Cost Of Revenue,,MSTR,quarterly
-2026-06-30,EBITDA,,MSTR,quarterly
-2026-06-30,Gross Profit,,MSTR,quarterly
-2026-06-30,Net Income,,MSTR,quarterly
-2026-06-30,Operating Expense,,MSTR,quarterly
-2026-06-30,Operating Income,,MSTR,quarterly
-2026-06-30,Total Revenue,,MSTR,quarterly
+2026-06-30,Cost Of Revenue,40818000.0,MSTR,quarterly
+2026-06-30,EBITDA,-8190094000.0,MSTR,quarterly
+2026-06-30,Gross Profit,81550000.0,MSTR,quarterly
+2026-06-30,Net Income,-8219628000.0,MSTR,quarterly
+2026-06-30,Operating Expense,97135000.0,MSTR,quarterly
+2026-06-30,Operating Income,-15585000.0,MSTR,quarterly
+2026-06-30,Total Revenue,122368000.0,MSTR,quarterly
 2021-08-31,Basic EPS,,MU,annual
 2021-08-31,Cost Of Revenue,,MU,annual
 2021-08-31,EBITDA,,MU,annual
