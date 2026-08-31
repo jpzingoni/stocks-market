@@ -743,14 +743,6 @@ Period,Metric,Value,Ticker,Frequency
 2026-06-30,Operating Expense,97135000.0,MSTR,quarterly
 2026-06-30,Operating Income,-15585000.0,MSTR,quarterly
 2026-06-30,Total Revenue,122368000.0,MSTR,quarterly
-2021-08-31,Basic EPS,,MU,annual
-2021-08-31,Cost Of Revenue,,MU,annual
-2021-08-31,EBITDA,,MU,annual
-2021-08-31,Gross Profit,,MU,annual
-2021-08-31,Net Income,,MU,annual
-2021-08-31,Operating Expense,,MU,annual
-2021-08-31,Operating Income,,MU,annual
-2021-08-31,Total Revenue,,MU,annual
 2022-08-31,Basic EPS,7.81,MU,annual
 2022-08-31,Cost Of Revenue,16860000000.0,MU,annual
 2022-08-31,EBITDA,16876000000.0,MU,annual
