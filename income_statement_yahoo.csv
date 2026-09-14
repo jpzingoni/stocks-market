@@ -920,21 +920,13 @@ Period,Metric,Value,Ticker,Frequency
 2024-05-31,Operating Income,16071000000.0,ORCL,annual
 2024-05-31,Total Revenue,52961000000.0,ORCL,annual
 2025-05-31,Basic EPS,4.46,ORCL,annual
-2025-05-31,Basic EPS,,ORCL,quarterly
 2025-05-31,Cost Of Revenue,16927000000.0,ORCL,annual
-2025-05-31,Cost Of Revenue,4741000000.0,ORCL,quarterly
 2025-05-31,EBITDA,23912000000.0,ORCL,annual
-2025-05-31,EBITDA,6826000000.0,ORCL,quarterly
 2025-05-31,Gross Profit,40472000000.0,ORCL,annual
-2025-05-31,Gross Profit,11162000000.0,ORCL,quarterly
 2025-05-31,Net Income,12443000000.0,ORCL,annual
-2025-05-31,Net Income,3427000000.0,ORCL,quarterly
 2025-05-31,Operating Expense,22420000000.0,ORCL,annual
-2025-05-31,Operating Expense,5971000000.0,ORCL,quarterly
 2025-05-31,Operating Income,18052000000.0,ORCL,annual
-2025-05-31,Operating Income,5191000000.0,ORCL,quarterly
 2025-05-31,Total Revenue,57399000000.0,ORCL,annual
-2025-05-31,Total Revenue,15903000000.0,ORCL,quarterly
 2025-08-31,Basic EPS,1.04,ORCL,quarterly
 2025-08-31,Cost Of Revenue,4884000000.0,ORCL,quarterly
 2025-08-31,EBITDA,6121000000.0,ORCL,quarterly
@@ -976,13 +968,13 @@ Period,Metric,Value,Ticker,Frequency
 2026-05-31,Total Revenue,67357000000.0,ORCL,annual
 2026-05-31,Total Revenue,19184000000.0,ORCL,quarterly
 2026-08-31,Basic EPS,1.58,ORCL,quarterly
-2026-08-31,Cost Of Revenue,,ORCL,quarterly
-2026-08-31,EBITDA,,ORCL,quarterly
-2026-08-31,Gross Profit,,ORCL,quarterly
-2026-08-31,Net Income,,ORCL,quarterly
-2026-08-31,Operating Expense,,ORCL,quarterly
-2026-08-31,Operating Income,,ORCL,quarterly
-2026-08-31,Total Revenue,,ORCL,quarterly
+2026-08-31,Cost Of Revenue,7733000000.0,ORCL,quarterly
+2026-08-31,EBITDA,10393000000.0,ORCL,quarterly
+2026-08-31,Gross Profit,11612000000.0,ORCL,quarterly
+2026-08-31,Net Income,4760000000.0,ORCL,quarterly
+2026-08-31,Operating Expense,4790000000.0,ORCL,quarterly
+2026-08-31,Operating Income,6822000000.0,ORCL,quarterly
+2026-08-31,Total Revenue,19345000000.0,ORCL,quarterly
 2021-12-31,Basic EPS,,PEP,annual
 2021-12-31,Cost Of Revenue,,PEP,annual
 2021-12-31,EBITDA,,PEP,annual
