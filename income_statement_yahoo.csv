@@ -255,7 +255,7 @@ Period,Metric,Value,Ticker,Frequency
 2025-03-31,Operating Expense,60286000000.0,AMZN,quarterly
 2025-03-31,Operating Income,18405000000.0,AMZN,quarterly
 2025-03-31,Total Revenue,155667000000.0,AMZN,quarterly
-2025-06-30,Basic EPS,1.71,AMZN,quarterly
+2025-06-30,Basic EPS,,AMZN,quarterly
 2025-06-30,Cost Of Revenue,80809000000.0,AMZN,quarterly
 2025-06-30,EBITDA,36600000000.0,AMZN,quarterly
 2025-06-30,Gross Profit,86893000000.0,AMZN,quarterly
@@ -303,6 +303,14 @@ Period,Metric,Value,Ticker,Frequency
 2026-06-30,Operating Expense,,AMZN,quarterly
 2026-06-30,Operating Income,,AMZN,quarterly
 2026-06-30,Total Revenue,,AMZN,quarterly
+2026-09-30,Basic EPS,1.92,AMZN,quarterly
+2026-09-30,Cost Of Revenue,,AMZN,quarterly
+2026-09-30,EBITDA,,AMZN,quarterly
+2026-09-30,Gross Profit,,AMZN,quarterly
+2026-09-30,Net Income,,AMZN,quarterly
+2026-09-30,Operating Expense,,AMZN,quarterly
+2026-09-30,Operating Income,,AMZN,quarterly
+2026-09-30,Total Revenue,,AMZN,quarterly
 2022-12-31,Basic EPS,4.59,GOOGL,annual
 2022-12-31,Cost Of Revenue,126203000000.0,GOOGL,annual
 2022-12-31,EBITDA,85160000000.0,GOOGL,annual
@@ -336,13 +344,13 @@ Period,Metric,Value,Ticker,Frequency
 2025-03-31,Operating Income,,GOOGL,quarterly
 2025-03-31,Total Revenue,,GOOGL,quarterly
 2025-06-30,Basic EPS,,GOOGL,quarterly
-2025-06-30,Cost Of Revenue,39039000000.0,GOOGL,quarterly
-2025-06-30,EBITDA,39192000000.0,GOOGL,quarterly
-2025-06-30,Gross Profit,57389000000.0,GOOGL,quarterly
-2025-06-30,Net Income,28196000000.0,GOOGL,quarterly
-2025-06-30,Operating Expense,26118000000.0,GOOGL,quarterly
-2025-06-30,Operating Income,31271000000.0,GOOGL,quarterly
-2025-06-30,Total Revenue,96428000000.0,GOOGL,quarterly
+2025-06-30,Cost Of Revenue,,GOOGL,quarterly
+2025-06-30,EBITDA,,GOOGL,quarterly
+2025-06-30,Gross Profit,,GOOGL,quarterly
+2025-06-30,Net Income,,GOOGL,quarterly
+2025-06-30,Operating Expense,,GOOGL,quarterly
+2025-06-30,Operating Income,,GOOGL,quarterly
+2025-06-30,Total Revenue,,GOOGL,quarterly
 2025-09-30,Basic EPS,2.89,GOOGL,quarterly
 2025-09-30,Cost Of Revenue,41369000000.0,GOOGL,quarterly
 2025-09-30,EBITDA,49741000000.0,GOOGL,quarterly
@@ -384,13 +392,13 @@ Period,Metric,Value,Ticker,Frequency
 2026-06-30,Operating Income,40770000000.0,GOOGL,quarterly
 2026-06-30,Total Revenue,119796000000.0,GOOGL,quarterly
 2026-09-30,Basic EPS,2.14,GOOGL,quarterly
-2026-09-30,Cost Of Revenue,,GOOGL,quarterly
-2026-09-30,EBITDA,,GOOGL,quarterly
-2026-09-30,Gross Profit,,GOOGL,quarterly
-2026-09-30,Net Income,,GOOGL,quarterly
-2026-09-30,Operating Expense,,GOOGL,quarterly
-2026-09-30,Operating Income,,GOOGL,quarterly
-2026-09-30,Total Revenue,,GOOGL,quarterly
+2026-09-30,Cost Of Revenue,51419000000.0,GOOGL,quarterly
+2026-09-30,EBITDA,41691000000.0,GOOGL,quarterly
+2026-09-30,Gross Profit,76158000000.0,GOOGL,quarterly
+2026-09-30,Net Income,26468000000.0,GOOGL,quarterly
+2026-09-30,Operating Expense,35582000000.0,GOOGL,quarterly
+2026-09-30,Operating Income,40576000000.0,GOOGL,quarterly
+2026-09-30,Total Revenue,127577000000.0,GOOGL,quarterly
 2022-12-31,Basic EPS,1.95,INTC,annual
 2022-12-31,Cost Of Revenue,36188000000.0,INTC,annual
 2022-12-31,EBITDA,21299000000.0,INTC,annual
@@ -415,7 +423,7 @@ Period,Metric,Value,Ticker,Frequency
 2024-12-31,Operating Expense,22053000000.0,INTC,annual
 2024-12-31,Operating Income,-4708000000.0,INTC,annual
 2024-12-31,Total Revenue,53101000000.0,INTC,annual
-2025-06-30,Basic EPS,-0.67,INTC,quarterly
+2025-06-30,Basic EPS,,INTC,quarterly
 2025-06-30,Cost Of Revenue,9317000000.0,INTC,quarterly
 2025-06-30,EBITDA,471000000.0,INTC,quarterly
 2025-06-30,Gross Profit,3542000000.0,INTC,quarterly
@@ -463,6 +471,14 @@ Period,Metric,Value,Ticker,Frequency
 2026-06-30,Operating Expense,4543000000.0,INTC,quarterly
 2026-06-30,Operating Income,1966000000.0,INTC,quarterly
 2026-06-30,Total Revenue,16128000000.0,INTC,quarterly
+2026-09-30,Basic EPS,0.63,INTC,quarterly
+2026-09-30,Cost Of Revenue,,INTC,quarterly
+2026-09-30,EBITDA,,INTC,quarterly
+2026-09-30,Gross Profit,,INTC,quarterly
+2026-09-30,Net Income,,INTC,quarterly
+2026-09-30,Operating Expense,,INTC,quarterly
+2026-09-30,Operating Income,,INTC,quarterly
+2026-09-30,Total Revenue,,INTC,quarterly
 2021-12-31,Basic EPS,,META,annual
 2021-12-31,Cost Of Revenue,,META,annual
 2021-12-31,EBITDA,,META,annual
@@ -576,24 +592,16 @@ Period,Metric,Value,Ticker,Frequency
 2024-06-30,Operating Income,109433000000.0,MSFT,annual
 2024-06-30,Total Revenue,245122000000.0,MSFT,annual
 2025-06-30,Basic EPS,13.7,MSFT,annual
-2025-06-30,Basic EPS,3.66,MSFT,quarterly
 2025-06-30,Cost Of Revenue,87831000000.0,MSFT,annual
-2025-06-30,Cost Of Revenue,24014000000.0,MSFT,quarterly
 2025-06-30,EBITDA,155445000000.0,MSFT,annual
-2025-06-30,EBITDA,44434000000.0,MSFT,quarterly
 2025-06-30,Gross Profit,193893000000.0,MSFT,annual
-2025-06-30,Gross Profit,52427000000.0,MSFT,quarterly
 2025-06-30,Net Income,101832000000.0,MSFT,annual
-2025-06-30,Net Income,27233000000.0,MSFT,quarterly
 2025-06-30,Operating Expense,65365000000.0,MSFT,annual
-2025-06-30,Operating Expense,18104000000.0,MSFT,quarterly
 2025-06-30,Operating Income,128528000000.0,MSFT,annual
-2025-06-30,Operating Income,34323000000.0,MSFT,quarterly
 2025-06-30,Total Revenue,281724000000.0,MSFT,annual
-2025-06-30,Total Revenue,76441000000.0,MSFT,quarterly
 2025-09-30,Basic EPS,3.73,MSFT,quarterly
 2025-09-30,Cost Of Revenue,24043000000.0,MSFT,quarterly
-2025-09-30,EBITDA,48060000000.0,MSFT,quarterly
+2025-09-30,EBITDA,43146000000.0,MSFT,quarterly
 2025-09-30,Gross Profit,53630000000.0,MSFT,quarterly
 2025-09-30,Net Income,27747000000.0,MSFT,quarterly
 2025-09-30,Operating Expense,15669000000.0,MSFT,quarterly
@@ -631,6 +639,14 @@ Period,Metric,Value,Ticker,Frequency
 2026-06-30,Operating Income,40603000000.0,MSFT,quarterly
 2026-06-30,Total Revenue,331839000000.0,MSFT,annual
 2026-06-30,Total Revenue,90007000000.0,MSFT,quarterly
+2026-09-30,Basic EPS,4.93,MSFT,quarterly
+2026-09-30,Cost Of Revenue,29720000000.0,MSFT,quarterly
+2026-09-30,EBITDA,58567000000.0,MSFT,quarterly
+2026-09-30,Gross Profit,62559000000.0,MSFT,quarterly
+2026-09-30,Net Income,36629000000.0,MSFT,quarterly
+2026-09-30,Operating Expense,16644000000.0,MSFT,quarterly
+2026-09-30,Operating Income,45915000000.0,MSFT,quarterly
+2026-09-30,Total Revenue,92279000000.0,MSFT,quarterly
 2021-12-31,Basic EPS,,MSTR,annual
 2021-12-31,Cost Of Revenue,,MSTR,annual
 2021-12-31,EBITDA,,MSTR,annual
@@ -671,7 +687,7 @@ Period,Metric,Value,Ticker,Frequency
 2025-03-31,Operating Expense,,MSTR,quarterly
 2025-03-31,Operating Income,,MSTR,quarterly
 2025-03-31,Total Revenue,,MSTR,quarterly
-2025-06-30,Basic EPS,36.23,MSTR,quarterly
+2025-06-30,Basic EPS,,MSTR,quarterly
 2025-06-30,Cost Of Revenue,35750000.0,MSTR,quarterly
 2025-06-30,EBITDA,14032917000.0,MSTR,quarterly
 2025-06-30,Gross Profit,78738000.0,MSTR,quarterly
@@ -719,6 +735,14 @@ Period,Metric,Value,Ticker,Frequency
 2026-06-30,Operating Expense,97135000.0,MSTR,quarterly
 2026-06-30,Operating Income,-15585000.0,MSTR,quarterly
 2026-06-30,Total Revenue,122368000.0,MSTR,quarterly
+2026-09-30,Basic EPS,47.78,MSTR,quarterly
+2026-09-30,Cost Of Revenue,,MSTR,quarterly
+2026-09-30,EBITDA,,MSTR,quarterly
+2026-09-30,Gross Profit,,MSTR,quarterly
+2026-09-30,Net Income,,MSTR,quarterly
+2026-09-30,Operating Expense,,MSTR,quarterly
+2026-09-30,Operating Income,,MSTR,quarterly
+2026-09-30,Total Revenue,,MSTR,quarterly
 2022-08-31,Basic EPS,,MU,annual
 2022-08-31,Cost Of Revenue,,MU,annual
 2022-08-31,EBITDA,,MU,annual
@@ -1231,7 +1255,7 @@ Period,Metric,Value,Ticker,Frequency
 2024-12-31,Operating Expense,1737178000.0,RDDT,annual
 2024-12-31,Operating Income,-560568000.0,RDDT,annual
 2024-12-31,Total Revenue,1300205000.0,RDDT,annual
-2025-06-30,Basic EPS,0.48,RDDT,quarterly
+2025-06-30,Basic EPS,,RDDT,quarterly
 2025-06-30,Cost Of Revenue,45900000.0,RDDT,quarterly
 2025-06-30,EBITDA,71645000.0,RDDT,quarterly
 2025-06-30,Gross Profit,453727000.0,RDDT,quarterly
@@ -1279,6 +1303,14 @@ Period,Metric,Value,Ticker,Frequency
 2026-06-30,Operating Expense,502881000.0,RDDT,quarterly
 2026-06-30,Operating Income,231716000.0,RDDT,quarterly
 2026-06-30,Total Revenue,804905000.0,RDDT,quarterly
+2026-09-30,Basic EPS,1.47,RDDT,quarterly
+2026-09-30,Cost Of Revenue,,RDDT,quarterly
+2026-09-30,EBITDA,,RDDT,quarterly
+2026-09-30,Gross Profit,,RDDT,quarterly
+2026-09-30,Net Income,,RDDT,quarterly
+2026-09-30,Operating Expense,,RDDT,quarterly
+2026-09-30,Operating Income,,RDDT,quarterly
+2026-09-30,Total Revenue,,RDDT,quarterly
 2021-12-31,Basic EPS,,TSLA,annual
 2021-12-31,Cost Of Revenue,,TSLA,annual
 2021-12-31,EBITDA,,TSLA,annual
