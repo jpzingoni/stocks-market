@@ -863,7 +863,7 @@ Period,Metric,Value,Ticker,Frequency
 2025-01-31,Operating Expense,16405000000.0,NVDA,annual
 2025-01-31,Operating Income,81453000000.0,NVDA,annual
 2025-01-31,Total Revenue,130497000000.0,NVDA,annual
-2025-07-31,Basic EPS,1.08,NVDA,quarterly
+2025-07-31,Basic EPS,,NVDA,quarterly
 2025-07-31,Cost Of Revenue,12890000000.0,NVDA,quarterly
 2025-07-31,EBITDA,31937000000.0,NVDA,quarterly
 2025-07-31,Gross Profit,33853000000.0,NVDA,quarterly
@@ -911,6 +911,14 @@ Period,Metric,Value,Ticker,Frequency
 2026-07-31,Operating Expense,8408000000.0,NVDA,quarterly
 2026-07-31,Operating Income,63734000000.0,NVDA,quarterly
 2026-07-31,Total Revenue,96221000000.0,NVDA,quarterly
+2026-10-31,Basic EPS,2.71,NVDA,quarterly
+2026-10-31,Cost Of Revenue,,NVDA,quarterly
+2026-10-31,EBITDA,,NVDA,quarterly
+2026-10-31,Gross Profit,,NVDA,quarterly
+2026-10-31,Net Income,,NVDA,quarterly
+2026-10-31,Operating Expense,,NVDA,quarterly
+2026-10-31,Operating Income,,NVDA,quarterly
+2026-10-31,Total Revenue,,NVDA,quarterly
 2022-05-31,Basic EPS,,ORCL,annual
 2022-05-31,Cost Of Revenue,,ORCL,annual
 2022-05-31,EBITDA,,ORCL,annual
